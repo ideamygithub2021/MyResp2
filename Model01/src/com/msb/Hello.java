@@ -11,5 +11,6 @@ public class Hello {
         System.out.println("hello git3");
         System.out.println("dddd");
         System.out.println("dddddd");
+        System.out.println("主管提交");
     }
 }
