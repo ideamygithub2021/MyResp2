@@ -5,4 +5,7 @@ package com.msb;
  * @create 2021-02-09 23:03
  */
 public class Person {
+    public static void main(String[] args) {
+
+    }
 }
